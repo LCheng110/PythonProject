@@ -1,0 +1,35 @@
+{
+    "pid": 1, 
+    "fid": 2, 
+    "du": 1.0, 
+    "type": 2, 
+    "x": 320.0, 
+    "y": 320.0, 
+    "w": 470.0, 
+    "h": 500.0, 
+    "a": 0.0, 
+    "fx": 0.438, 
+    "fy": 0.038, 
+    "fw": 6.375, 
+    "fh": 0.0, 
+    "n": "1", 
+    "c": 1.0, 
+    "kerneframe": 1, 
+    "pExtend": 1, 
+    "extendSection": 0, 
+    "frameArry": [
+        {
+            "time": 0.0, 
+            "pic": 0
+        }
+    ], 
+    "timeArray": [
+        {
+            "beginTime": 0.0, 
+            "endTime": 1.0, 
+            "shrink": 1, 
+            "minTime": 1.0, 
+            "maxTime": 0
+        }
+    ]
+}
